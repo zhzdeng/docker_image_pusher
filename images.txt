@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 # 以下是需要的镜像
-louislam/uptime-kuma
+elestio/uptime-kuma
