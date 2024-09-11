@@ -5,3 +5,4 @@ nginx
 # 以下是需要的镜像
 elestio/uptime-kuma
 1panel/openresty:1.21.4.3-3-3-focal
+whyour/qinglong:2.17.10
