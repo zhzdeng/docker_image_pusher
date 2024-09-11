@@ -6,3 +6,4 @@ nginx
 elestio/uptime-kuma
 1panel/openresty:1.21.4.3-3-3-focal
 whyour/qinglong:2.17.10
+n8nio/n8n:1.58.1
