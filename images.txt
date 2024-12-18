@@ -8,3 +8,4 @@ elestio/uptime-kuma
 whyour/qinglong:2.17.10
 n8nio/n8n:1.58.1
 germey/gerapy:latest
+vimagick/scrapyd:1.4.2-2.10.0
